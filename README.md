@@ -4,7 +4,7 @@ Complete end-to-end analysis of 11.1M bike-share trips to identify behavioral di
 
 ## 🚀 Quick Start
 
-For Russian Speakers (Русский язык):
+**For Russian Speakers (Русский язык):**
 
 Open RU/cyclistic_report.md
 
@@ -12,7 +12,7 @@ Read sections: БИЗНЕС-ЗАДАЧА → ПОДГОТОВКА → ПРОЦЕ
 
 View interactive dashboard: RU/Cyclistic Rus.pdf
 
-For English Speakers:
+**For English Speakers:**
 
 Open EN/cyclistic_report.md
 
@@ -44,15 +44,15 @@ Documentation	Markdown (bilingual)
 
 Dashboard	Power BI Desktop
 
-##📈 Analysis Stages
+## 📈 Analysis Stages
 
-1. Ask (Бизнес-задача)
+**1. Ask (Бизнес-задача)**
 
 Identify behavior differences between casual riders and members
 
 Goal: Develop conversion strategy
 
-2. Prepare (Подготовка)
+**2. Prepare (Подготовка)**
 
 Source: 24 monthly CSV files (2024-2025)
 
@@ -60,7 +60,7 @@ Volume: 11.4M bike trips
 
 Data validation: ROCCC framework
 
-3. Process (Процесс)
+**3. Process (Процесс)**
 
 Import to MySQL
 
@@ -70,7 +70,7 @@ Handle outliers (cancelled rides, long rides)
 
 Check NULL values (18-20% in station data)
 
-4. Analyze (Анализ)
+**4. Analyze (Анализ)**
 
 Migrate to ClickHouse (performance 46x-infinite improvement)
 
@@ -84,7 +84,7 @@ Duration differences
 
 Route patterns (commuting vs leisure)
 
-5. Share (Визуализация)
+**5. Share (Визуализация)**
 
 3-page interactive Power BI dashboard
 
@@ -92,7 +92,7 @@ Bilingual documentation
 
 Executive-ready insights
 
-6. Act (Рекомендации)
+**6. Act (Рекомендации)**
 
 TOP-3 strategies for casual → member conversion
 
