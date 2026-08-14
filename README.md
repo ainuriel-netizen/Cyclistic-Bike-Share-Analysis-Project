@@ -96,11 +96,11 @@ Executive-ready insights
 
 TOP-3 strategies for casual → member conversion
 
+Seasonal campaigns
+
 Targeted retargeting
 
-ROI calculator
-
-Seasonal campaigns
+Membership value growth
 
 ## 💡 Technical Highlights
 
