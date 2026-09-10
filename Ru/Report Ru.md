@@ -315,3 +315,8 @@ ClickHouse — необходима для аналитики на 10M+ стро
 - Долгие поездки (long_rides) и отменённые (cancelled_rides) остаются для будущего анализа
 - Анализ станций ограничен 80% полнотой (20% NULL) но не влияет на поведенческие выводы
 - Все рекомендации работают в рамках текущей модели подписки
+
+<img width="1660" height="960" alt="Cyclistic Ru_Page1" src="https://github.com/user-attachments/assets/27c39c49-0e76-499f-b7d3-dd14c3bd1c6a" />
+<img width="1660" height="960" alt="Cyclistic Ru_Page2" src="https://github.com/user-attachments/assets/5a2355db-f46a-4b3f-9b17-d6a581c28ec7" />
+<img width="1660" height="960" alt="Cyclistic Ru_Page3" src="https://github.com/user-attachments/assets/fa3cd8e9-418b-4d82-aa3c-80cc99f451b7" />
+<img width="1660" height="960" alt="Cyclistic Ru_Page4" src="https://github.com/user-attachments/assets/203d8ff5-d9c8-48ae-bef3-d7de9c6e3c26" />
