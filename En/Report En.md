@@ -305,3 +305,7 @@ Based on data-driven insights, recommend these three initiatives to convert Casu
 - Station data analysis limited to 80% completeness (20% NULL locations) but doesn't impact behavioral insights
 - All recommendations work within current subscription model
 
+<img width="1660" height="960" alt="Cyclistic En_Page1" src="https://github.com/user-attachments/assets/604e6022-7efe-4108-9b96-ccd34617e3dd" />
+<img width="1660" height="960" alt="Cyclistic En_Page2" src="https://github.com/user-attachments/assets/d7603241-d1c4-4f54-abbb-fbb82c5a4c49" />
+<img width="1660" height="960" alt="Cyclistic En_Page3" src="https://github.com/user-attachments/assets/aecae4c3-5d44-4b33-a61b-bd9aa64a63a4" />
+<img width="1660" height="960" alt="Cyclistic En_Page4" src="https://github.com/user-attachments/assets/27c37b1a-b7b6-49aa-9d40-57275938677a" />
